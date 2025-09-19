@@ -19,3 +19,5 @@ For editing the [Baseplate.swf](./BASEPLATE.swf) with your own image, you need t
 5. (Optional) Click on `images` and delete the original image that was in the SWF to save space
 6. Click Save
 7. (Optional) Make a pull request here to share it
+
+If you want a plain colored background, make an image 4x4 in pixels and put the color you want, then do the steps above. It **does not** have to follow the 16:9 aspect ratio
