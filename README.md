@@ -2,9 +2,9 @@
 
 [Download this repo](https://github.com/SharpTheNightmare/SkuaBackgrounds/archive/refs/heads/main.zip) OR choose an SWF file in the repository and put it in `~/Documents/Skua/Themes`
 # Rules:
-1. No NSFW!
+1. No **NSFW** this will not be tolerated, and we may ignore future PRs
 2. Naming Convention: 
- - Not Accepted: `73ufhehxw.swf` > Accepted: `ProperName.swf` E.G. If your PR says `ChaosQueenBeleen.swf` but the file is named `ghasdh123.swf`, we will make you change it before merging
+ - Not Accepted: `73ufhehxw.swf` > Accepted: `ProperName.swf` E.G., If your PR says `ChaosQueenBeleen.swf` but the file is named `ghasdh123.swf`, we will make you change it before merging
 
 # Making a Background
 If you want to make a background, the **image needs to follow** the `16:9` aspect ratio
