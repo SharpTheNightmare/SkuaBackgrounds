@@ -5,3 +5,4 @@
 1. No NSFW!
 2. Naming Convention: 
  - Not Accepted: `73ufhehxw.swf` > Accepted: `ProperName.swf`
+ - E.G. If you PR says `ChaosQueenBeleen.swf` but the file is name `ghasdh123.swf` we will make you change it before merging
