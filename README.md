@@ -11,7 +11,7 @@
 If you want to make a background, the **image needs to follow** the `16:9` aspect ratio
 
 For editing the [Baseplate.swf](./BASEPLATE.swf) with your own image, you need to use [JPEXS Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler)
- - Scroll to the `How to install` section for install instructions.
+ - Scroll to the `How to install` section on their Gitgub page for installing instructions.
 1. Download [Baseplate.swf](./BASEPLATE.swf)
 2. Right-click [Baseplate.swf](./BASEPLATE.swf) and open with [JPEXS Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler)
 3. Click on Shapes and click the only DefineShape
